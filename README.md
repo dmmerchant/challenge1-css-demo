@@ -1,10 +1,9 @@
-# challenge1-css-demo
+# Coding Bootcamp Challenge 1
 
-## Coding Bootcamp Challenge 1
+## Challenge Description
+***Feature Request Challenge***
 
-**Feature Request Challenge**
-
-Code has been supplied. The objective is to modify the code based on the user story/acceptance criteria.
+Code has been supplied. The objective is to modify the code based on the [user story](#user-story)/[acceptance criteria](#acceptance-criteria).
 
 ### Lessons to be applied
 
@@ -19,30 +18,33 @@ Code has been supplied. The objective is to modify the code based on the user st
     + Class Selectors
 
 ### Original Code
-
-1. Uses only DIV tags
-1. DIV tags class selectors to modify style
+*[Link to Orginal Code](https://uconn.bootcampcontent.com/university-of-connecticut/CONN-VIRT-FSF-PT-05-2022-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge/Develop)*
+1. Uses only \<DIV> tags
+1. \<DIV> tags class selectors to modify style
 1. Images missing alt text
 
-### Solution
 
-1. Update DIV tags to Semantic Elements
-    + Header
-    + Nav
-    + Figure
-    + Section
-    + Article
-1. Update CSS
-    + Change class selectors to element selectors *(where applicable)*
-    + Remove unused class selectors in the HTML
-1. Add alternative text to images
+
+### Solution
+*[Link to Deployed Solution](https://dmmerchant.github.io/challenge1-css-demo/)*
+1. Updated \<DIV> tags to Semantic Elements
+    + \<Header>
+    + \<Nav>
+    + \<Figure>
+    + \<Section>
+    + \<Article>
+    + \<Aside>
+1. Updated CSS
+    + Changed class selectors to element selectors *(where applicable)*
+    + Removed unused class selectors in the HTML
+1. Added alternative text to images
 
 
 
 ___
 *User Story, Acceptance Criteria, and Mock-Up as supplied by the course.*
 
-## User Story
+## User Story 
 
 ```
 AS A marketing agency
